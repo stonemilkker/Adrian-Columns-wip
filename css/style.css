@@ -170,7 +170,7 @@ ul.breadcrumb li+li:before {
     margin-left: 3%;
 }
 .column:first-child,
-.column:first-child {
+.columns:first-child {
     margin-left: 0%;
 }
 .one.column {
@@ -180,7 +180,7 @@ ul.breadcrumb li+li:before {
     width: 5.1%;
 }
 .two.columns {
-    width: 5.1%;
+    width: 13.3%;
 }
 .three.columns {
     width: 22%;
@@ -236,7 +236,7 @@ ul.breadcrumb li+li:before {
     }
 }
 .example-grid .column,
-.example-grid .column {
+.example-grid .columns {
     background: #EEE;
     text-align: center;
     border-radius: 4px;
